@@ -1,3 +1,8 @@
+/*
+Rule: ERR00-J
+Description: Do not suppress exceptions
+Source: SEI CERT Oracle Coding Standard for Java
+*/
 public class R07_ERR00_J {
 
     public static void main(String[] args) {
