@@ -1,3 +1,8 @@
+/*
+Rule: MET01-J
+Description: Never use assertions to validate method arguments
+Source: SEI CERT Oracle Coding Standard for Java
+*/
 public class R06_MET01_J {
 
     public static void main(String[] args) {
