@@ -1,3 +1,8 @@
+/*
+Rule: DCL00-J
+Description: Prevent class initialization cycles
+Source: SEI CERT Oracle Coding Standard for Java
+*/
 public class R10_DCL00_J {
 
     static int value;
