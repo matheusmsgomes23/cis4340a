@@ -1,3 +1,8 @@
+/*
+Rule: EXP00-J
+Description: Do not ignore values returned by methods
+Source: SEI CERT Oracle Coding Standard for Java
+*/
 import java.io.DataInputStream;
 import java.io.IOException;
 
