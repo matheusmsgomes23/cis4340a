@@ -1,3 +1,9 @@
+/*
+Rule: IDS03-J
+Description: Do not log unsanitized user input
+Source: SEI CERT Oracle Coding Standard for Java
+*/
+
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
 
