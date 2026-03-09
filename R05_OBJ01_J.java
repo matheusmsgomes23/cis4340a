@@ -1,3 +1,8 @@
+/*
+Rule: OBJ01-J
+Description: Limit exposure of mutable objects
+Source: SEI CERT Oracle Coding Standard for Java
+*/
 import java.util.Date;
 
 public class R05_OBJ01_J {
