@@ -1,3 +1,8 @@
+/*
+Rule: STR03-J
+Description: Do not encode noncharacter data as a string
+Source: SEI CERT Oracle Coding Standard for Java
+*/
 import java.math.BigInteger;
 
 public class R04_STR03_J {
